@@ -1,6 +1,6 @@
 # EteBase Backup
 
-[![Docker Image Version (latest by date)](https://img.shields.io/docker/v/karbon15/etebase-backup?label=Version&logo=docker)](https://hub.docker.com/r/karbon15/etebase-backup/tags) [![Docker Pulls](https://img.shields.io/docker/pulls/karbon15/etebase-backup?label=Docker%20Pulls&logo=docker)](https://hub.docker.com/r/karbon15/etebase-backup) [![GitHub](https://img.shields.io/github/license/karbon16/EteBase-Backup?label=License&logo=github)](https://github.com/karbon15/EteBase-Backup/blob/master/LICENSE)
+[![Docker Image Version (latest by date)](https://img.shields.io/docker/v/karbon15/etebase-backup?label=Version&logo=docker)](https://hub.docker.com/r/karbon15/etebase-backup/tags) [![Docker Pulls](https://img.shields.io/docker/pulls/karbon15/etebase-backup?label=Docker%20Pulls&logo=docker)](https://hub.docker.com/r/karbon15/etebase-backup) [![GitHub](https://img.shields.io/github/license/karbon15/EteBase-Backup?label=License&logo=github)](https://github.com/karbon15/EteBase-Backup/blob/master/LICENSE)
 
 Docker containers for [etebase server](https://github.com/etesync/server) backup to remote.
 
